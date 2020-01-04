@@ -5,7 +5,6 @@ package Require::Hook::More;
 # DIST
 # VERSION
 
-use 5.010001;
 use strict;
 use warnings;
 
